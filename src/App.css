@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.results {
+  width:700px;
+  margin:auto;
+  text-align:left;
+}
+
+.post {
+  margin-bottom:10px;
+
+}
+
+.thumb {
+  float:left;
+  margin:3px;
+  width:140px;
+  min-height:60px;
+  text-align:center;
+}
+
+.score {
+  margin-right:10px;
+}
+
+
+
+.endpost {
+  clear:both;
+}
